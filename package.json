@@ -1,0 +1,15 @@
+{
+  "name":"socialanimal",
+  "version":"0.0.1",
+  "description":"Abstracted simple social relationship interface",
+  "author":"Joshua Thayer <joshuamilesthayer@gmail.com>",
+  "repository": {
+    "type":"git",
+    "url":"http://github.com/joshuathayer/socialanimal.git"
+  },
+  "main":"./lib/socialanimal",
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": { "node": ">= 0.4.0" },
+  "keywords":["social","graph","relationships"]
+}
